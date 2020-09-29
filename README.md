@@ -4,6 +4,9 @@
 The goal of this project is to implement a Naive Bayes Classifier from scratch in Pytorch.
 During this experiment, we will try to have some insights about the effect of alcohol on students behavior and success.
 
+## Blog Post
+You can find the blog post related to this project [here](https://consciousml.github.io/blog/naive-bayes/alcohol/pytorch/eda/from-scratch/2020/09/17/Naive-Bayes-Classifier.html).
+
 ## Dataset
 The [Student Alcohol Consumption](https://archive.ics.uci.edu/ml/datasets/heart+Disease) will be utilized.
 This dataset contains very interesting data that has a lot of information about Portuguese students such as:
@@ -47,6 +50,3 @@ In order to install the conda environment needed to run the notebook, run the fo
 conda env create --file requirements.yml
 conda activate torch
 ```
-
-## Notebook
-The experiment can be found in the notebook at the root of the project.
